@@ -53,15 +53,11 @@ h2 {
 	flex-grow: 1;
 }
 
-#profile,
-#experience-web,
-#experience-physical {
+.project-list {
 	background-color: rgba(133,158,220,.17);
 }
 
-#profile h2,
-#experience-web h2,
-#experience-physical h2 {
+.project-list h2 {
 	background-color: rgba(133,158,220,1);
 }
 
